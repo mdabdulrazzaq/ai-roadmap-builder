@@ -1,0 +1,7 @@
+streamlit
+openai
+requests
+PyGithub
+scrapy
+arxiv
+transformers
